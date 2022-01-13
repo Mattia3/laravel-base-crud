@@ -9,7 +9,7 @@
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 </head>
 <body>
-  <div class="container">
+  <div class="container mt-5">
     <h1>Lista Fumetti</h1>
     <a class="btn btn-primary my-4" href="{{ route('comics.create') }}">Aggiungi</a> 
 
